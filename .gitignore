@@ -1,0 +1,28 @@
+# Database credentials (customize db.php before pushing)
+# includes/db.php is included but review credentials first
+
+# XAMPP / local environment
+/xampp/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PHP
+*.phar
+
+# Node (if added later)
+node_modules/
+
+# Environment files
+.env
+.env.local
+config.local.php
