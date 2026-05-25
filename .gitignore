@@ -1,5 +1,5 @@
-# Database credentials (customize db.php before pushing)
-# includes/db.php is included but review credentials first
+# Database credentials — gerçek db.php GitHub'a yüklenmez
+includes/db.php
 
 # XAMPP / local environment
 /xampp/

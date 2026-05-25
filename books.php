@@ -182,7 +182,7 @@ require_once 'includes/header.php';
         </table>
     </div>
 </div>
-<script>liveSearch('searchInput', 'booksTable', window.location.origin + '/kutuphane/ajax/search_books.php');</script>
+<script>liveSearch('searchInput', 'booksTable', 'http://libraryms.byethost12.com/ajax/search_books.php');</script>
 <?php endif; ?>
 
 <?php require_once 'includes/footer.php'; ?>
